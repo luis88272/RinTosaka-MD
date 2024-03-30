@@ -6,8 +6,8 @@
             "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] El antilink está habilitado, pero el participante que envió el enlace es un administrador.*",
-            "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
+            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] Mi rey, el antilink está activado .*",
+            "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras...*",
             "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
             "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
