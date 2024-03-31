@@ -3354,7 +3354,7 @@
             "texto3": "*[❗] El usuario no se encuentra en mi base de datos.*",
             "texto4": [
                 "tiene menos de",
-                "xp*\nNo robes a un pobre v"
+                "xp*\nNo robes a un pobre XD, Mejor regalale"
             ],
             "texto5": [
                 "*‣ Robaste",
@@ -3609,7 +3609,7 @@
         "dfail": {
             "texto1": "*[ ℹ️ ] Este comando solo puede ser utilizado por La Realeza.*",
             "texto2": "*[ ℹ️ ] Este comando solo puede ser utilizado por La Realeza.*",
-            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y el propietario del bot.*",
+            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y La Realeza.*",
             "texto4": "*[ ℹ️ ] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
             "texto5": "*[ ℹ️ ] Este comando solo puede ser utilizado en grupos.*",
             "texto6": "*[ ℹ️ ] Este comando solo puede ser utilizado en el chat privado del bot.*",
@@ -3628,10 +3628,10 @@
             "texto2": "👋 ¡Hasta luego!\n@user",
             "texto3": "*[ ℹ️ ] Un Dios Ha Despertado..*",
             "texto4": "*[ ℹ️ ] Un Dios Ha Dejado Este Mundo.*",
-            "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada.*",
+            "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
             "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado.*",
             "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido.*"
+            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, Su Majestad.*"
         },
         "deleteUpdate": {
             "texto1": [
