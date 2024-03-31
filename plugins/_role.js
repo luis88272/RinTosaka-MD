@@ -46,7 +46,7 @@ handler.before = function (m) {
       : ((user.level >= 200) && (user.level <= 400)) ? 'Titan III'
       : ((user.level >= 405) && (user.level <= 700)) ? 'Titan II'
       : ((user.level >= 700) && (user.level <= 1000)) ? 'Titan I'
-      : 'Dragón rey estrella'
+      : 'Shadow Monarch 🤴🏻'
 
     user.role = role
     return true
