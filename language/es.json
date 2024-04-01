@@ -260,12 +260,12 @@
                 "𝙴𝙹𝙴𝙼𝙿𝙻𝙾 𝙳𝙴 𝚄𝚂𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙾 𝙳𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾:",
                 "<responder a sticker o imagen>"
             ],
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] Solo La Realeza 𝙿𝚄𝙴𝙳𝙴 𝚁𝙴𝙰𝙻𝙸𝚉𝙰𝚁 𝙻𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙲𝙸𝙾𝙽",
+            "texto4": "[❗𝐈𝐍𝐅𝐎❗] Solo los de la  Realeza 𝙿𝚄𝙴𝙳𝙴 𝚁𝙴𝙰𝙻𝙸𝚉𝙰𝚁 𝙻𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙲𝙸𝙾𝙽",
             "texto5": "[ ✔ ] 𝙴𝙻 𝚃𝙴𝚇𝚃𝙾/𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙰𝚂𝙸𝙶𝙽𝙰𝙳𝙾 𝙰𝙻 𝚂𝚃𝙸𝙲𝙺𝙴𝚁/𝙸𝙼𝙰𝙶𝙴𝙽 𝙵𝚄𝙴 𝙰𝙶𝚁𝙴𝙶𝙰𝙳𝙾 𝙰 𝙻𝙰 𝙱𝙰𝚂𝙴 𝙳𝙴 𝙳𝙰𝚃𝙾𝚂 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴"
         },
         "cmd_del": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] 𝚂𝙾𝙻𝙾 𝚂𝙴 𝙿𝚄𝙴𝙳𝙴𝙽 𝙰𝚂𝙸𝙶𝙽𝙰𝚁 𝚃𝙴𝚇𝚃𝙾𝚂 𝙾 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝙰𝚂𝙸𝙶𝙽𝙰𝙳𝙾𝚂 𝙰 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙾 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝙿𝙰𝚁𝙰 𝙾𝙱𝚃𝙴𝙽𝙴𝚁 𝙴𝙻 𝙲𝙾𝙳𝙸𝙶𝙾 𝙰𝚂𝙸𝙶𝙽𝙰𝙳𝙾 𝚄𝚂𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾",
-            "texto2": "[❗𝐈𝐍𝐅𝐎❗] Solo La Realeza 𝙿𝚄𝙴𝙳𝙴 𝚁𝙴𝙰𝙻𝙸𝚉𝙰𝚁 𝙻𝙰 𝙴𝙻𝙸𝙼𝙸𝙽𝙰𝙲𝙸𝙾𝙽",
+            "texto2": "[❗𝐈𝐍𝐅𝐎❗] Solo los de la Realeza 𝙿𝚄𝙴𝙳𝙴 𝚁𝙴𝙰𝙻𝙸𝚉𝙰𝚁 𝙻𝙰 𝙴𝙻𝙸𝙼𝙸𝙽𝙰𝙲𝙸𝙾𝙽",
             "texto3": "[ ✔ ] 𝙴𝙻 𝚃𝙴𝚇𝚃𝙾/𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙰𝚂𝙸𝙶𝙽𝙰𝙳𝙾 𝙰𝙻 𝚂𝚃𝙸𝙲𝙺𝙴𝚁/𝙸𝙼𝙰𝙶𝙴𝙽 𝙵𝚄𝙴 𝙴𝙻𝙸𝙼𝙸𝙽𝙰𝙳𝙾 𝙳𝙴 𝙻𝙰 𝙱𝙰𝚂𝙴 𝙳𝙴 𝙳𝙰𝚃𝙾𝚂 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴"
         },
         "cmd_list": {
@@ -383,7 +383,7 @@
             "texto20": [
                 "▢ *Opción:* 👑",
                 "▢ *Comando:*",
-                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por La Realeza."
+                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por Los de la Realeza."
             ],
             "texto21": [
                 "▢ *Opción:* 😃",
@@ -470,7 +470,7 @@
         "convertidor_tts": {
             "texto1": [
                 "[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝚃𝙴𝚇𝚃𝙾 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙸𝚁 𝙰 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:",
-                "es Hola Mundo"
+                "Cristian chupame el pito"
             ]
         },
         "convertidor_tts2": {
@@ -1973,7 +1973,7 @@
             "texto6": "*[❗] 𝙰𝚄𝙽 𝙴𝚂𝚃𝙰𝚂 𝙴𝙽 𝚄𝙽 𝙹𝚄𝙴𝙶𝙾 𝙲𝙾𝙽 𝙰𝙻𝙶𝚄𝙸𝙴𝙽*"
         },
         "gc_add": {
-            "texto1": "*[ ⚠️ ] Mi Rey, no tiene activado este comando  (𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 / 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝) 𝙴𝙻 𝚄𝚂𝙾 𝙳𝙴 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾*",
+            "texto1": "*[ ⚠️ ] Su alteza, no tiene activado este comando  (𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 / 𝚍𝚒𝚜𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝) 𝙴𝙻 𝚄𝚂𝙾 𝙳𝙴 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾*",
             "texto2": "*[❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝚀𝚄𝙴 𝙳𝙴𝚂𝙴𝙴 𝙰𝙶𝚁𝙴𝙶𝙰𝚁*",
             "texto3": [
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙰𝙽̃𝙰𝙳𝙸𝚁 𝙰",
@@ -2104,7 +2104,7 @@
             "texto3": "*[ ✅ ] A la orden, Su Majestad.*"
         },
         "gc_revoke": {
-            "texto1": "🔹️ *_Se restableció con éxito el link del grupo._*\n♾ • Link Nuevo:"
+            "texto1": "🔹️ *_Se restableció con éxito el link del grupo, su majestad._*\n♾ • Link Nuevo:"
         },
         "gc_setbye": {
             "texto1": "*[❗] 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝙳𝙴 𝙳𝙴𝚂𝙿𝙴𝙳𝙸𝙳𝙰 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴 𝙿𝙰𝚁𝙰 𝙴𝚂𝚃𝙴 𝙶𝚁𝚄𝙿𝙾, A sus Ordenes.*",
@@ -2154,19 +2154,19 @@
         },
         "grupos_eliminar": {
             "texto1": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] La Realeza del bot ha activado la función de restricción",
+                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Los de la Realeza no ha activado la función de restricción",
                 "por lo que no se ejecutó el comando solicitado.*"
             ],
             "texto2": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del mortal que deseas eliminar.*\n\n*[ 💡 ] Ejemplo:*",
             "texto3": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del mortal que deseas eliminar.",
-            "texto4": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] El bot no puede eliminarse a si mismo.*",
+            "texto4": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] que haces pendejo?.*",
             "texto5": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] El participante",
+                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] El mortal",
                 "fue eliminado.*"
             ],
             "texto6": [
                 "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
-                "es el Dios Supremo del grupo, por lo mismo no puede ser eliminado.*"
+                "Es el rey, por lo mismo no puede ser eliminado.*"
             ],
             "texto7": [
                 "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
@@ -2673,7 +2673,7 @@
         },
         "menu_labiblia": {
             "texto1": [
-                "*[❗] Los comandos +18 están desactivados en este grupo, si es admin y desea activarlos use",
+                "*[❗] Los comandos +18 están desactivados en este grupo, si es de la realeza y desea activarlos use",
                 "*𝗛ola",
                 "*< MENU+18 />*",
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*"
@@ -2780,8 +2780,8 @@
                 "*[❗] Uso incorrecto del comando.*\n\n*—◉ Ejemplo de uso válido:*\n*◉",
                 "<mensaje citado>*"
             ],
-            "texto2": "*[❗] Nuevo número agregado con éxito a la lista de owners.*",
-            "texto3": "*[❗] El número fue eliminado con éxito de la lista de owners.*",
+            "texto2": "*[❗] A la orden, Mi rey 👑.*",
+            "texto3": "*[❗] A la orden, Mi rey.*",
             "texto4": "*[❗] El número ingresado no existe en la lista de owners.*"
         },
         "owner_addmsg": {
@@ -2841,24 +2841,24 @@
             ]
         },
         "owner_autoadmin": {
-            "texto1": "*[❗] Hola su majestad, Como esta? usted ya es admin en este grupo.*",
+            "texto1": "*[❗] Hola su majestad, Como esta? usted ya es tiene poder en este grupo.*",
             "texto2": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙰𝚁𝙻𝙴 𝙰𝙳𝙼𝙸𝙽*"
         },
         "owner_banchat": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚂𝚃𝙴 𝙲𝙷𝙰𝚃 𝙵𝚄𝙴 𝙱𝙰𝙽𝙴𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n\n*—◉ 𝙴𝙻 𝙱𝙾𝚃 𝙽𝙾 𝚁𝙴𝙰𝙲𝙲𝙸𝙾𝙽𝙰𝚁𝙰 𝙰 𝙽𝙸𝙽𝙶𝚄𝙽 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙷𝙰𝚂𝚃𝙰 𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙷𝙰𝚃*"
         },
         "owner_banlist": {
-            "texto1": "〔 𝐔𝐒𝐔𝐀𝐑𝐈𝐎𝐒 𝐁𝐀𝐍𝐄𝐀𝐃𝐎𝐒 〕",
+            "texto1": "〔 Mortales 𝐁𝐀𝐍𝐄𝐀𝐃𝐎𝐒 〕",
             "texto2": "〔 𝐂𝐇𝐀𝐓𝐒 𝐁𝐀𝐍𝐄𝐀𝐃𝐎𝐒 〕"
         },
         "owner_banuser": {
             "texto1": "[❗] 𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙴 𝙰 𝚄𝙽𝙰 𝙿𝙴𝚁𝚂𝙾𝙽𝙰 𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙰 𝙰 𝚄𝙽 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙿𝙾𝚁 𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝚀𝚄𝙴 𝙳𝙴𝚂𝙴𝙴 𝙱𝙰𝙽𝙴𝙰𝚁\n\n*—◉ 𝙴𝙹𝙴𝙼𝙿𝙻𝙾:*",
-            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙵𝚄𝙴 𝙱𝙰𝙽𝙴𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n*—◉ 𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙽𝙾 𝙿𝙾𝙳𝚁𝙰 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙱𝙾𝚃 𝙷𝙰𝚂𝚃𝙰 𝚀𝚄𝙴 𝚂𝙴𝙰 𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝙳𝙾*"
+            "texto2": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 Mortal 𝙵𝚄𝙴 𝙱𝙰𝙽𝙴𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n*—◉ 𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙽𝙾 𝙿𝙾𝙳𝚁𝙰 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙱𝙾𝚃 𝙷𝙰𝚂𝚃𝙰 𝚀𝚄𝙴 𝚂𝙴𝙰 𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝙳𝙾*"
         },
         "owner_bcgc": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙴 𝚃𝚁𝙰𝙼𝙸𝚃𝙴*",
             "texto2": [
-                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇",
+                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 By La Realeza.",
                 "[❗𝐂𝐎𝐌𝐔𝐍𝐈𝐂𝐀𝐃𝐎❗]\n\n"
             ],
             "texto3": [
@@ -2908,7 +2908,7 @@
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙴 𝚃𝚁𝙰𝙼𝙸𝚃𝙴*",
             "texto2": [
                 "[❗𝐂𝐎𝐌𝐔𝐍𝐈𝐂𝐀𝐃𝐎❗]\n\n",
-                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇"
+                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 By La Realeza."
             ],
             "texto3": [
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙰 ",
@@ -2995,7 +2995,7 @@
         "owner_join": {
             "texto1": "*[❗] Link erroneo o faltante, ingrese el enlace de un grupo de WhatsApp.*\n\n*—◉ Ejemplo:*\n*◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
             "texto2": "*[ ✔️ ] El Bot ha ingresado con éxito al grupo.*",
-            "texto3": "*[❗] El link de su grupo fue enviado a la familia real.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
+            "texto3": "*[❗] El link de su grupo fue enviado a un miembro de la familia real, espera la aprobacion.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
             "texto4": "*[❗] NUEVA SOLICITUD DE UN BOT PARA UN GRUPO [❗]*\n\n*—◉ Solicitante:*",
             "texto5": "*[❗] Lo sentimos, algo salio mal por favor reportelo o vuelva a intentarlo.*"
         },
