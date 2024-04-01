@@ -13,7 +13,7 @@
         },
         "_antilink2": {
             "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras..*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Mi Rey, Necesito Permisos.*",
+            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Mi rey, Necesito Permisos.*",
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
@@ -2432,7 +2432,7 @@
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Byte Boulevard 🐍ׂ᪶! In Top.*"
             ],
             "texto2": [
-                "「  La Realeza  」",
+                "「  Royalty Members    」",
                 "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
             ]
         },
@@ -2841,7 +2841,7 @@
             ]
         },
         "owner_autoadmin": {
-            "texto1": "*[❗] Hola Mi Rey, Como esta? usted ya es admin en este grupo.*",
+            "texto1": "*[❗] Hola su majestad, Como esta? usted ya es admin en este grupo.*",
             "texto2": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙰𝚁𝙻𝙴 𝙰𝙳𝙼𝙸𝙽*"
         },
         "owner_banchat": {
@@ -2985,7 +2985,7 @@
                 "*◉ Grupo: *",
                 "*➤ Nombre:*",
                 "*➤ ID:*",
-                "*➤ Admin:*",
+                "*➤ Members of the royal family :*",
                 "*➤ Estado:*",
                 "*➤ Total de Participantes:*",
                 "*➤ Link:*"
@@ -2995,7 +2995,7 @@
         "owner_join": {
             "texto1": "*[❗] Link erroneo o faltante, ingrese el enlace de un grupo de WhatsApp.*\n\n*—◉ Ejemplo:*\n*◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
             "texto2": "*[ ✔️ ] El Bot ha ingresado con éxito al grupo.*",
-            "texto3": "*[❗] El link de su grupo fue enviado a mi propietario/a.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
+            "texto3": "*[❗] El link de su grupo fue enviado a la familia real.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
             "texto4": "*[❗] NUEVA SOLICITUD DE UN BOT PARA UN GRUPO [❗]*\n\n*—◉ Solicitante:*",
             "texto5": "*[❗] Lo sentimos, algo salio mal por favor reportelo o vuelva a intentarlo.*"
         },
@@ -3020,20 +3020,20 @@
                 "*❒═════[𝐑𝐄𝐏𝐎𝐑𝐓𝐄]═════❒*\n*┬*\n*├❧ 𝙽𝚄𝙼𝙴𝚁𝙾:*",
                 "*┴*\n*┬*\n*├❧ 𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*"
             ],
-            "texto5": "*[ ✔️ ] 𝚁𝙴𝙿𝙾𝚁𝚃𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾 𝙰𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙳𝙴𝙻 𝙱𝙾𝚃, 𝚂𝚄 𝚁𝙴𝙿𝙾𝚁𝚃𝙴 𝚂𝙴𝚁𝙰́ 𝙰𝚃𝙴𝙽𝙳𝙸𝙳𝙾 𝙻𝙾 𝙰𝙽𝚃𝙴𝚂 𝙿𝙾𝚂𝙸𝙱𝙻𝙴, 𝚂𝙸 𝙴𝚂 𝙵𝙰𝙻𝚂𝙾 𝙾 𝙱𝚁𝙾𝙼𝙰 𝚂𝙾𝙻𝙾 𝚂𝙴 𝙸𝙶𝙽𝙾𝚁𝙰𝚁𝙰*"
+            "texto5": "*[ ✔️ ] 𝚁𝙴𝙿𝙾𝚁𝚃𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾 𝙰 el rey, 𝚂𝚄 𝚁𝙴𝙿𝙾𝚁𝚃𝙴 𝚂𝙴𝚁𝙰́ 𝙰𝚃𝙴𝙽𝙳𝙸𝙳𝙾 𝙻𝙾 𝙰𝙽𝚃𝙴𝚂 𝙿𝙾𝚂𝙸𝙱𝙻𝙴, 𝚂𝙸 𝙴𝚂 𝙵𝙰𝙻𝚂𝙾 𝙾 𝙱𝚁𝙾𝙼𝙰 𝚂𝙾𝙻𝙾 𝚂𝙴 𝙸𝙶𝙽𝙾𝚁𝙰𝚁𝙰*"
         },
         "owner_resetprefix": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 𝚁𝙴𝚂𝚃𝙰𝙱𝙻𝙴𝙲𝙸𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾"
+            "texto1": "[❗𝐈𝐍𝐅𝐎❗] Hecho, Su majestad."
         },
         "owner_resetuser": {
             "texto1": "*[❗] Formato de usuario no reconocido. Responda a un mensaje, etiquete a un usuario o escriba su número de usuario.*",
             "texto2": "*[❗] Formato de usuario no reconocido. Responda a un mensaje, etiquete a un usuario o escriba su número de usuario.*",
             "texto3": [
-                "*[❗] El usuario",
-                "o se encuentra en mi base de datos.*"
+                "*[❗] El mortal",
+                "no se encuentra en mi base de datos.*"
             ],
             "texto4": [
-                "*[❗] Todos los datos del usuario",
+                "*[❗] A sus ordenes, Su alteza.",
                 "en la base de datos han sido eliminados.*"
             ]
         },
@@ -3055,7 +3055,7 @@
         "owner_unbanuser": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙰 𝙴𝙻 @𝚝𝚊𝚐 𝙳𝙴 𝙰𝙻𝙶𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾*",
             "texto2": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙰 𝙴𝙻 @𝚝𝚊𝚐 𝙳𝙴 𝙰𝙻𝙶𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙵𝚄𝙴 𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n*—◉ 𝙴𝙻 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝚈𝙰 𝙿𝚄𝙴𝙳𝙴 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙱𝙾𝚃*"
+            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 Mortal 𝙵𝚄𝙴 𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n*—◉ 𝙴𝙻 Mortal 𝚈𝙰 𝙿𝚄𝙴𝙳𝙴 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙱𝙾𝚃*"
         },
         "owner_viewimage": {
             "texto1": "Ingrese el nombre y la carpeta de la imagen que desea ver.",
@@ -3609,11 +3609,11 @@
         "dfail": {
             "texto1": "*[ ℹ️ ] Este comando solo puede ser utilizado por La Realeza.*",
             "texto2": "*[ ℹ️ ] Este comando solo puede ser utilizado por La Realeza.*",
-            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y La Realeza.*",
+            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y La realeza.*",
             "texto4": "*[ ℹ️ ] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
             "texto5": "*[ ℹ️ ] Este comando solo puede ser utilizado en grupos.*",
             "texto6": "*[ ℹ️ ] Este comando solo puede ser utilizado en el chat privado del bot.*",
-            "texto7": "*[ ℹ️ ] Este comando solo puede ser usado por los dioses del olimpo.*",
+            "texto7": "*[ ℹ️ ] Este comando solo puede ser usado La realeza.*",
             "texto8": "*[ ℹ️ ] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
             "texto9": "*[ ℹ️ ] Para utilizar este comando debes estar registrado.*\n\n*[ 💡 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
             "texto10": "*[ ℹ️ ] Este comando fue desactivado por La Realeza.*",
@@ -3626,7 +3626,7 @@
         "participantsUpdate": {
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[ ℹ️ ] Bienvenido, Su Alteza.*",
+            "texto3": "*[ ℹ️ ] Bienvenido, Su alteza.*",
             "texto4": "*[ ℹ️ ] Que le vaya bien, su Majestad.*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
             "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado.*",
