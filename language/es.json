@@ -6,14 +6,14 @@
             "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] Mi rey, el antilink está activado .*",
+            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] Su majestad, el antilink está activado .*",
             "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras...*",
             "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
             "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antilink2": {
-            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
+            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras..*",
+            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Mi Rey, Necesito Permisos.*",
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
@@ -27,7 +27,7 @@
             "texto2_1": "superó las 5 advertencias, por lo que será expulsado del grupo.* "
         },
         "_antitrabas": {
-            "texto1": "_*< ANTI-TRABAS />*_\n\n*[ ℹ️ ] El administrador ",
+            "texto1": "_*< ANTI-TRABAS />*_\n\n*[ ℹ️ ] Su Alteza ",
             "texto1_1": " envio un mensaje que contiene muchos caracteres.* ",
             "texto2": "*[ ! ] Se detecto un mensaje que contiene muchos caracteres [ ! ]*\n",
             "texto2_1": "No soy administrador, no puedo hacer nada :/",
@@ -383,7 +383,7 @@
             "texto20": [
                 "▢ *Opción:* 👑",
                 "▢ *Comando:*",
-                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por Dioses."
+                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por La Realeza."
             ],
             "texto21": [
                 "▢ *Opción:* 😃",
@@ -411,13 +411,13 @@
                 "▢ *Opción:* ⏳",
                 "▢ *Comando:*",
                 "▢ *Descripción:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
             ],
             "texto26": [
                 "▢ *Opción:* 🤖",
                 "▢ *Comando:*",
                 "▢ *Descripción:* Activa o desactiva el uso del comando para sub bots ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
             ],
             "texto27": [
                 "▢ *Opción:* 💬",
@@ -798,7 +798,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Descarga por Jared para tu mama "
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
@@ -1276,7 +1276,7 @@
             ]
         },
         "fun_ruletas": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] 𝙀𝙨𝙩𝙚 𝙟𝙪𝙚𝙜𝙤𝙨 𝙚𝙨𝙩𝙖 𝙙𝙚𝙨𝙖𝙘𝙩𝙞𝙫𝙖𝙙𝙤 𝙥𝙤𝙧 𝙡𝙤𝙨 𝙖𝙙𝙢𝙞𝙣𝙨 𝙙𝙚𝙡 𝙂𝙧𝙪𝙥𝙤 𝙨𝙞 𝙩𝙪 𝙚𝙧𝙚𝙨 𝙖𝙙𝙢𝙞𝙣𝙨 𝙮 𝙦𝙪𝙞𝙚𝙧𝙚 𝙖𝙘𝙩𝙞𝙫𝙖𝙧𝙡𝙤 𝙪𝙨𝙖𝙧: #on juegos",
+            "texto1": "[❗𝐈𝐍𝐅𝐎❗] 𝙀𝙨𝙩𝙚 𝙟𝙪𝙚𝙜𝙤𝙨 𝙚𝙨𝙩𝙖 𝙙𝙚𝙨𝙖𝙘𝙩𝙞𝙫𝙖𝙙𝙤 𝙥𝙤𝙧 La Realeza 𝙨𝙞 𝙩𝙪 𝙚𝙧𝙚𝙨 Un miembro 𝙮 𝙦𝙪𝙞𝙚𝙧𝙚 𝙖𝙘𝙩𝙞𝙫𝙖𝙧𝙡𝙤 𝙪𝙨𝙖𝙧: #on juegos",
             "texto2": [
                 "『⏰』𝙀𝙨𝙥𝙚𝙧𝙖 :",
                 "𝙥𝙖𝙧𝙖 𝙫𝙤𝙡𝙫𝙚𝙧 𝙖 𝙟𝙪𝙜𝙖𝙧 "
@@ -1302,7 +1302,7 @@
         },
         "fun_tops": {
             "texto1": "*🌈TOP 10 GAYS/LESBIANAS DEL GRUPO🌈*",
-            "texto2": "*🌸 TOP 10 OTAKUS DEL GRUPO 🌸*"
+            "texto2": "*🌸 TOP 10 Negros DEL GRUPO 🌸*"
         },
         "fun_verdad": {
             "texto3": [
@@ -1984,8 +1984,8 @@
         },
         "gc_admins": {
             "texto1": [
-                "*━「* 𝐈𝐍𝐕𝐎𝐂𝐀𝐍𝐃𝐎 A Los Dioses *」━*",
-                "*Dioses:*",
+                "*━「* 𝐈𝐍𝐕𝐎𝐂𝐀𝐍𝐃𝐎 A Los Realeza *」━*",
+                "*Miembros:*",
                 "*[ ⚠ ️] 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙲𝚄𝙰𝙽𝙳𝙾 𝚂𝙴 𝚃𝚁𝙰𝚃𝙴 𝙳𝙴 𝚄𝙽𝙰 𝙴𝙼𝙴𝚁𝙶𝙴𝙽𝙲𝙸𝙰!!*",
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*"
             ]
@@ -1996,12 +1996,12 @@
                 "📌 *_Ejemplo de uso:_*",
                 "*_🌿 Para que el grupo este cerrado una hora._*"
             ],
-            "texto2": "*El grupo ha sido cerrado, ¡ahora solo los Dioses pueden enviar mensajes!*",
+            "texto2": "*El grupo ha sido cerrado, ¡ahora solo la Realeza pueden enviar mensajes!*",
             "texto3": "*El grupo se ha abierto, ¡ahora todos los Mortales pueden enviar mensajes!*"
         },
         "gc_config": {
             "texto1": [
-                "*[❗] 𝙵𝙾𝚁𝙼𝙰𝚃𝙾 𝙴𝚁𝚁𝙾𝙽𝙴𝙾!!*",
+                "*El grupo ha sido cerrado, ¡ahora solo la Realeza pueden enviar mensajes!*",
                 "*┏━━━❲ ✨𝙴𝙹𝙴𝙼𝙿𝙻𝙾✨ ❳━━━┓*",
                 "*[ ✔ ] 𝙶𝚁𝚄𝙿𝙾 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴*"
             ]
@@ -2037,8 +2037,8 @@
                 "*𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:*",
                 "*𝚃𝙾𝚃𝙰𝙻 𝙳𝙴 𝙿𝙰𝚁𝚃𝙸𝙲𝙸𝙿𝙰𝙽𝚃𝙴𝚂:*",
                 "Participantes",
-                "*𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*",
-                "*𝙰𝙳𝙼𝙸𝙽𝚂 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*",
+                "*King:*",
+                "*Miembros de la realeza :*",
                 "*𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝚂:*",
                 "—◉ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴:",
                 "—◉ 𝙳𝙴𝚃𝙴𝙲𝚃:",
@@ -2089,7 +2089,7 @@
             "texto9": "*[❗] 𝙴𝚁𝚁𝙾𝚁*"
         },
         "gc_listwarn": {
-            "texto1": "⚠️ 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂 𝙰𝙳𝚅𝙴𝚁𝚃𝙸𝙳𝙾𝚂",
+            "texto1": "⚠️ Mortales 𝙰𝙳𝚅𝙴𝚁𝚃𝙸𝙳𝙾𝚂",
             "texto2": [
                 "*Total :",
                 "Usuarios*"
@@ -2144,7 +2144,7 @@
                 "*ADVERTENCIAS"
             ],
             "texto3": [
-                "*[❗𝐈𝐍𝐅𝐎❗] La Realeza 𝙱𝙾𝚃 𝙽𝙾 𝚃𝙸𝙴𝙽𝙴 𝙷𝙰𝙱𝙸𝙻𝙸𝚃𝙰𝙳𝙾 𝙻𝙰𝚂 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝙲𝙸𝙾𝙽𝙴𝚂",
+                "*[❗𝐈𝐍𝐅𝐎❗] La Realeza  𝙽𝙾 𝚃𝙸𝙴𝙽𝙴 𝙷𝙰𝙱𝙸𝙻𝙸𝚃𝙰𝙳𝙾 𝙻𝙰𝚂 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝙲𝙸𝙾𝙽𝙴𝚂",
                 "𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙴 𝙲𝙾𝙽 𝙴𝙻 𝙿𝙰𝚁𝙰 𝚀𝚄𝙴 𝙻𝙾 𝙷𝙰𝙱𝙸𝙻𝙸𝚃𝙴*"
             ],
             "texto4": [
@@ -2550,7 +2550,7 @@
             "texto1": [
                 "_*< INFO - REPOSITORIO />*_",
                 "▢ *Nombre:*",
-                "TheMystic-Bot-MD",
+                "Emilia",
                 "▢ *Visitantes:*",
                 "▢ *Tamaño:*",
                 "▢ *Actualización:*",
