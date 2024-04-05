@@ -343,7 +343,7 @@
                 "▢ *Opción:* 🏢",
                 "▢ *Comando:*",
                 "▢ *Descripción:* El Bot solo respondera a los comandos si es un grupo. ",
-                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
+                "▢ *Nota:* Este comando solo puede ser usado por Miembros de la Realeza."
             ],
             "texto14": [
                 "▢ *Opción:* ❌",
@@ -354,7 +354,7 @@
                 "▢ *Opción:* 📵",
                 "▢ *Comando:*",
                 "▢ *Descripción:* El Bot bloquerá a las personas que llamen al Bot. ",
-                "▢ *Nota:* Este comando solo podra ser usado por La Realeza."
+                "▢ *Nota:* Este comando solo podra ser usado por miembros de la Realeza."
             ],
             "texto16": [
                 "▢ *Opción:* 🤬",
@@ -383,7 +383,7 @@
             "texto20": [
                 "▢ *Opción:* 👑",
                 "▢ *Comando:*",
-                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por Los de la Realeza."
+                "▢ *Descripción:* El bot solo responderá a los mensajes enviados por miembros de la Realeza."
             ],
             "texto21": [
                 "▢ *Opción:* 😃",
@@ -399,31 +399,31 @@
                 "▢ *Opción:* 🔊",
                 "▢ *Comando:*",
                 "▢ *Descripción:* Se desactivan los audios del Bot del menuaudios para todos los chats privados.",
-                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
+                "▢ *Nota:* Este comando solo puede ser usado por miembros de la Realeza."
             ],
             "texto24": [
                 "▢ *Opción:* 🤖",
                 "▢ *Comando:*",
                 "▢ *Descripción:* Se activa el modo 'Inteligencia Artificial' con ChatGPT en todos los chats privados.",
-                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
+                "▢ *Nota:* Este comando solo puede ser usado por miembros de la Realeza."
             ],
             "texto25": [
                 "▢ *Opción:* ⏳",
                 "▢ *Comando:*",
                 "▢ *Descripción:* El Bot detecta cuando un usuario hace spam de comando y lo banea por 5 segundos y lo advierte.",
-                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
+                "▢ *Nota:* Este comando solo puede ser usado por miembros de la Realeza."
             ],
             "texto26": [
                 "▢ *Opción:* 🤖",
                 "▢ *Comando:*",
                 "▢ *Descripción:* Activa o desactiva el uso del comando para sub bots ",
-                "▢ *Nota:* Este comando solo puede ser usado por La Realeza."
+                "▢ *Nota:* Este comando solo puede ser usado por miembros de la Realeza."
             ],
             "texto27": [
                 "▢ *Opción:* 💬",
                 "▢ *Comando:*",
                 "▢ *Descripción:* El Bot bloquerá a las personas que escriban al privado del Bot, Su Majestad. ",
-                "▢ *Nota:* Este comando solo puede ser usado por el/los propietario(s) del bot."
+                "▢ *Nota:* Este comando solo puede ser usado por miembros de la realeza."
             ],
             "texto28": [
                 "< FUNCIONES DEL BOT />",
@@ -1276,15 +1276,15 @@
             ]
         },
         "fun_ruletas": {
-            "texto1": "[❗𝐈𝐍𝐅𝐎❗] 𝙀𝙨𝙩𝙚 𝙟𝙪𝙚𝙜𝙤𝙨 𝙚𝙨𝙩𝙖 𝙙𝙚𝙨𝙖𝙘𝙩𝙞𝙫𝙖𝙙𝙤 𝙥𝙤𝙧 La Realeza 𝙨𝙞 𝙩𝙪 𝙚𝙧𝙚𝙨 Un miembro 𝙮 𝙦𝙪𝙞𝙚𝙧𝙚 𝙖𝙘𝙩𝙞𝙫𝙖𝙧𝙡𝙤 𝙪𝙨𝙖𝙧: #on juegos",
+            "texto1": "[❗𝐈𝐍𝐅𝐎❗] 𝙀𝙨𝙩𝙚 𝙟𝙪𝙚𝙜𝙤 𝙚𝙨𝙩𝙖 𝙙𝙚𝙨𝙖𝙘𝙩𝙞𝙫𝙖𝙙𝙤 𝙥𝙤𝙧 La Realeza 𝙨𝙞 𝙩𝙪 𝙚𝙧𝙚𝙨 Un miembro 𝙮 𝙦𝙪𝙞𝙚𝙧𝙚 𝙖𝙘𝙩𝙞𝙫𝙖𝙧𝙡𝙤 𝙪𝙨𝙖𝙧: #on juegos",
             "texto2": [
                 "『⏰』𝙀𝙨𝙥𝙚𝙧𝙖 :",
                 "𝙥𝙖𝙧𝙖 𝙫𝙤𝙡𝙫𝙚𝙧 𝙖 𝙟𝙪𝙜𝙖𝙧 "
             ],
             "texto3": "😺 𝙌𝙐𝙀 𝘽𝙐𝙀𝙉𝘼 𝙎𝙐𝙀𝙍𝙏𝙀 🐞🍀\n*𝙊𝙗𝙩𝙞𝙚𝙣𝙚 :*",
             "texto4": "😿 𝙉𝙊𝙊 𝙀𝙎𝙏𝘼𝙎 𝘿𝙀 𝙈𝘼𝙇𝘼 𝙎𝙐𝙀𝙍𝙏𝙀 𝘼𝘾𝘼𝘽𝘼 𝘿𝙀 𝙋𝙀𝙍𝘿𝙀𝙍 :",
-            "texto5": "😹 𝙀𝙎𝙏𝘼𝙎 𝙍𝙀 𝙈𝘼𝙇𝘼 𝙌𝙐𝙀 𝙌𝙐𝙄𝙏𝙊 𝙀𝙇 𝙋𝙊𝘿𝙀𝙍 𝘼𝙃𝙊𝙍𝘼 𝙔𝘼 𝙉𝙊 𝙀𝙍𝙀𝙎 𝘼𝘿𝙈𝙄𝙉𝙎 𝙅𝙊𝘿𝙀𝙍𝙏𝙀 😹😹😹",
-            "texto6": "😼 𝙀𝙎𝙏𝘼 𝙍𝙀 𝘽𝙐𝙀𝙉𝘼 😉, 𝘼𝙝𝙤𝙧𝙖 𝙚𝙧𝙚𝙨 𝙪𝙣 𝙖𝙙𝙢𝙞𝙣𝙞𝙨𝙩𝙧𝙖𝙙𝙤𝙧, 𝙚𝙡 𝙦𝙪𝙚 𝙦𝙪𝙞𝙩𝙖𝙧 𝙖𝙙𝙢𝙞𝙣𝙨 𝙚𝙨 𝙛𝙖𝙣 𝙙𝙚 𝙠𝙪𝙣𝙤 😂",
+            "texto5": "😹 𝙀𝙎𝙏𝘼𝙎 𝙍𝙀 𝙈𝘼𝙇𝘼 𝙌𝙐𝙀 𝙌𝙐𝙄𝙏𝙊 𝙀𝙇 𝙋𝙊𝘿𝙀𝙍 𝘼𝙃𝙊𝙍𝘼 𝙔𝘼 𝙉𝙊 𝙀𝙍𝙀𝙎 Miembro De la Realeza  😹😹😹",
+            "texto6": "😼 𝙀𝙎𝙏𝘼 𝙍𝙀 𝘽𝙐𝙀𝙉𝘼 😉, Ahora eres un  Miembro De La Realeza, Bienvenido.",
             "texto7": "𝙒𝙐𝙐𝙐 𝙎𝙀𝙉̃𝙊𝙍 𝙀𝙎𝙏𝘼 𝘿𝙀 𝙎𝙐𝙀𝙍𝙏𝙀, 𝙑𝘼𝙔𝘼𝙍 𝘼 𝙅𝙐𝙂𝘼𝙍 𝘼𝙇 𝘾𝘼𝙎𝙄𝙉𝙊 🎰\n*𝙂𝘼𝙉𝘼𝙍𝙏𝙀 :* ",
             "texto8": "👑 𝙂𝙐𝘼𝘼 𝙀𝙎𝙏𝘼𝙎 𝙍𝙀 𝘽𝙐𝙀𝙉𝘼 𝙎𝙐𝙀𝙍𝙏𝙀 𝙂𝘼𝙉𝘼𝙍𝙏𝙀 𝙎𝙀𝙍 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝙋𝙊𝙍 : 1 𝙃𝙤𝙧𝙖 ⏰"
         },
@@ -1984,7 +1984,7 @@
         },
         "gc_admins": {
             "texto1": [
-                "*━「* 𝐈𝐍𝐕𝐎𝐂𝐀𝐍𝐃𝐎 A Los Realeza *」━*",
+                "*━「* 𝐈𝐍𝐕𝐎𝐂𝐀𝐍𝐃𝐎 A Los Miembro de la Realeza *」━*",
                 "*Miembros:*",
                 "*[ ⚠ ️] 𝚄𝚂𝙰𝚁 𝙴𝚂𝚃𝙴 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝚂𝙾𝙻𝙾 𝙲𝚄𝙰𝙽𝙳𝙾 𝚂𝙴 𝚃𝚁𝙰𝚃𝙴 𝙳𝙴 𝚄𝙽𝙰 𝙴𝙼𝙴𝚁𝙶𝙴𝙽𝙲𝙸𝙰!!*",
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*"
@@ -1996,12 +1996,12 @@
                 "📌 *_Ejemplo de uso:_*",
                 "*_🌿 Para que el grupo este cerrado una hora._*"
             ],
-            "texto2": "*El grupo ha sido cerrado, ¡ahora solo la Realeza pueden enviar mensajes!*",
+            "texto2": "*El grupo ha sido cerrado, ¡ahora solo los miembros de la realeza pueden enviar mensajes!*",
             "texto3": "*El grupo se ha abierto, ¡ahora todos los Mortales pueden enviar mensajes!*"
         },
         "gc_config": {
             "texto1": [
-                "*El grupo ha sido cerrado, ¡ahora solo la Realeza pueden enviar mensajes!*",
+                "*El grupo ha sido cerrado, ¡ahora solo los miembros de la Realeza pueden enviar mensajes!*",
                 "*┏━━━❲ ✨𝙴𝙹𝙴𝙼𝙿𝙻𝙾✨ ❳━━━┓*",
                 "*[ ✔ ] 𝙶𝚁𝚄𝙿𝙾 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴*"
             ]
@@ -2037,7 +2037,7 @@
                 "*𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:*",
                 "*𝚃𝙾𝚃𝙰𝙻 𝙳𝙴 𝙿𝙰𝚁𝚃𝙸𝙲𝙸𝙿𝙰𝙽𝚃𝙴𝚂:*",
                 "Participantes",
-                "*King:*",
+                "*👑 Shadow Monarch 👑:*",
                 "*Miembros de la realeza :*",
                 "*𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝚂:*",
                 "—◉ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴:",
@@ -2154,7 +2154,7 @@
         },
         "grupos_eliminar": {
             "texto1": [
-                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Los de la Realeza no ha activado la función de restricción",
+                "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Los  miembros de la Realeza no han activado la función de restricción",
                 "por lo que no se ejecutó el comando solicitado.*"
             ],
             "texto2": "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ] Etiqueta o responde a un mensaje del mortal que deseas eliminar.*\n\n*[ 💡 ] Ejemplo:*",
@@ -2481,7 +2481,7 @@
         },
         "info_groupsofc": {
             "texto1": [
-                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 𝙻𝙾𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂 𝙳𝙴 𝚃𝙷𝙴 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙽 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳 :D*",
+                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 𝙻𝙾𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂 𝙳𝙴 La corte Byte Boluevard -  para convivir y crear tu propio harem :D*",
                 "*➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*",
                 "*1.-* https://chat.whatsapp.com/FhiEt7vRAkL2HT8Nj0pcY1",
                 "*2.-* ~ ⏤͟͟͞͞❃ུ۪Byte Boulevard 🐍ׂ᪶",
@@ -2555,7 +2555,7 @@
                 "▢ *Tamaño:*",
                 "▢ *Actualización:*",
                 "▢ *URL:*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://github.com/luis/TheMystic-Bot-MD",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2587,7 +2587,7 @@
             "texto1": "*[ ✔ ] 𝙴𝙵𝙴𝙲𝚃𝙾 𝙰𝙿𝙻𝙸𝙲𝙰𝙳𝙾*"
         },
         "maker_gay": {
-            "texto1": "*🏳️‍🌈 𝙼𝙸𝚁𝙴𝙽 𝙰 𝙴𝚂𝚃𝙴 𝙶𝙰𝚈 🏳️‍🌈 (tenia que ser igual que Cristian)*"
+            "texto1": "*🏳️‍🌈 𝙼𝙸𝚁𝙴𝙽 𝙰 𝙴𝚂𝚃𝙴 𝙶𝙰𝚈 🏳️‍🌈 (Mas gay es Cristian)*"
         },
         "maker_horncard": {
             "texto1": "*𝚃𝚄 𝙴𝚂𝚃𝙰𝚂 𝙷𝙾𝚁𝙽𝚈 🥵🔥*"
@@ -2688,7 +2688,7 @@
                 "▢ *Experiencia:* ",
                 "▢ *Rango:* ",
                 "▢ *Diamantes:* ",
-                "▢ *MysticCoins:* ",
+                "▢ *ShadowCoins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< LISTA DE MENUS />*_",
@@ -2781,7 +2781,7 @@
                 "<mensaje citado>*"
             ],
             "texto2": "*[❗] A la orden, Mi rey 👑.*",
-            "texto3": "*[❗] A la orden, Mi rey.*",
+            "texto3": "*[❗] A la orden, Mi rey 👑.*",
             "texto4": "*[❗] El número ingresado no existe en la lista de owners.*"
         },
         "owner_addmsg": {
@@ -2858,7 +2858,7 @@
         "owner_bcgc": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙴 𝚃𝚁𝙰𝙼𝙸𝚃𝙴*",
             "texto2": [
-                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 By La Realeza.",
+                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 (By La Realeza).",
                 "[❗𝐂𝐎𝐌𝐔𝐍𝐈𝐂𝐀𝐃𝐎❗]\n\n"
             ],
             "texto3": [
@@ -2908,7 +2908,7 @@
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙴 𝚃𝚁𝙰𝙼𝙸𝚃𝙴*",
             "texto2": [
                 "[❗𝐂𝐎𝐌𝐔𝐍𝐈𝐂𝐀𝐃𝐎❗]\n\n",
-                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 By La Realeza."
+                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 By (La Realeza)."
             ],
             "texto3": [
                 "*[❗𝐈𝐍𝐅𝐎❗] 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝙴𝙽𝚅𝙸𝙰𝙳𝙾 𝙰 ",
@@ -3063,7 +3063,7 @@
         },
         "propietario_actualizar": {
             "texto1": "_*< PROPIETARIO - UPDATE />*_\n\n*[ ✅ ] No hay actualizaciones pendientes.*",
-            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente.*\n\n",
+            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente, su majestad.*\n\n",
             "texto3": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Se han hecho cambios locales en archivos del bot que entran en conflicto con las actualizaciones del repositorio. Para actualizar, reinstala el bot o realiza las actualizaciones manualmente.*\n\n*Archivos en conflicto:*",
             "texto4": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
@@ -3165,7 +3165,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamantes* 💎",
                 "Tokens* 🪙",
-                "MysticCoins* 👾",
+                "ShadowCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3174,7 +3174,7 @@
             "texto1": "『🚓︎』𝙇𝘼 𝙋𝙊𝙇𝙄𝘾𝙄𝘼 𝙀𝙎𝙏𝘼 𝙑𝙄𝙂𝙄𝙇𝘼𝙉𝘿𝙊 𝙀𝙉 𝙀𝙎𝙏𝙀 𝙈𝙊𝙈𝙀𝙉𝙏𝙊, 𝙑𝙐𝙀𝙇𝙑𝙀 𝙀𝙉 :",
             "texto2": [
                 "💎 𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄",
-                "👾 𝐌𝐲𝐬𝐭𝐢𝐜𝐂𝐨𝐢𝐧𝐬"
+                "👾 Shadow𝐂𝐨𝐢𝐧𝐬"
             ],
             "texto3": [
                 "《💰》Le has robado a",
@@ -3607,20 +3607,20 @@
             ]
         },
         "dfail": {
-            "texto1": "*[ ℹ️ ] Este comando solo puede ser utilizado por La Realeza.*",
-            "texto2": "*[ ℹ️ ] Este comando solo puede ser utilizado por La Realeza.*",
-            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y La realeza.*",
-            "texto4": "*[ ℹ️ ] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
+            "texto1": "*[ ℹ️ ] Este comando solo puede ser utilizado por  miembros de la Realeza.*",
+            "texto2": "*[ ℹ️ ] Este comando solo puede ser utilizado por miembros de la  Realeza.*",
+            "texto3": "*[ ℹ️ ] Este comando solo puede ser utilizado por moderadores y miembros de la realeza.*",
+            "texto4": "*[ ℹ️ ] Este comando solo puede ser utilizado por usurios premium miembros de la realeza.*",
             "texto5": "*[ ℹ️ ] Este comando solo puede ser utilizado en grupos.*",
             "texto6": "*[ ℹ️ ] Este comando solo puede ser utilizado en el chat privado del bot.*",
-            "texto7": "*[ ℹ️ ] Este comando solo puede ser usado La realeza.*",
+            "texto7": "*[ ℹ️ ] Este comando solo puede ser usado por miembros de la  realeza.*",
             "texto8": "*[ ℹ️ ] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
             "texto9": "*[ ℹ️ ] Para utilizar este comando debes estar registrado.*\n\n*[ 💡 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
-            "texto10": "*[ ℹ️ ] Este comando fue desactivado por La Realeza.*",
+            "texto10": "*[ ℹ️ ] Este comando fue desactivado por miembros de la Realeza.*",
             "texto11": [
                 "*[ ⚠ ] Advertencia*",
                 "*[ ⚠ ] Advertencia*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://github.com/Jared/TheMystic-Bot-MD"
             ]
         },
         "participantsUpdate": {
@@ -3629,8 +3629,8 @@
             "texto3": "*[ ℹ️ ] Bienvenido, Su alteza.*",
             "texto4": "*[ ℹ️ ] Que le vaya bien, su Majestad.*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
-            "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado.*",
-            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo.*",
+            "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
+            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo, su alteza.*",
             "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, Su Majestad.*"
         },
         "deleteUpdate": {
