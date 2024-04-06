@@ -2780,7 +2780,7 @@
                 "*[❗] Uso incorrecto del comando.*\n\n*—◉ Ejemplo de uso válido:*\n*◉",
                 "<mensaje citado>*"
             ],
-            "texto2": "*[❗] A la orden, Mi rey 👑.*",
+            "texto2": "*[❗] A la orden, *mi rey* 👑.*",
             "texto3": "*[❗] A la orden, Mi rey 👑.*",
             "texto4": "*[❗] El número ingresado no existe en la lista de owners.*"
         },
@@ -3626,12 +3626,12 @@
         "participantsUpdate": {
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[ ℹ️ ] Bienvenido, Su alteza.*",
-            "texto4": "*[ ℹ️ ] Que le vaya bien, su Majestad.*",
+            "texto3": "*[ ℹ️ ] Bienvenido, Mi Señor.*",
+            "texto4": "*[ ℹ️ ] Que le vaya bien, Mi Señor.*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
             "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
             "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo, su alteza.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, Su Majestad.*"
+            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, Mi Señor.*"
         },
         "deleteUpdate": {
             "texto1": [
