@@ -2416,7 +2416,7 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ ~ ⏤͟͟͞͞❃ུ۪ King Jared 👑 wa.me/593985655462 (The Shadow Monarch)*",
+                "*—◉ ~ ⏤͟͟͞͞❃ུ۪ 👑 𝙎𝙝𝙖𝙙𝙤𝙬 𝙈𝙤𝙣𝙖𝙧𝙘𝙝 👑 wa.me/593985655462 *",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Joan  👑  wa.me/523327150768*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Asael  👑 wa.me/1829317-5634*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Yuseram  👑 wa.me/573023633499*",
@@ -2681,8 +2681,8 @@
         },
         "menu_menu": {
             "texto1": [
-                "Emilia - 𝘽𝙊𝙏",
-                "▢ *Hola :D,*",
+                "Igris - 𝘽𝙊𝙏",
+                "▢ *Hola.,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
@@ -2780,8 +2780,8 @@
                 "*[❗] Uso incorrecto del comando.*\n\n*—◉ Ejemplo de uso válido:*\n*◉",
                 "<mensaje citado>*"
             ],
-            "texto2": "*[❗] A la orden, *mi rey* 👑.*",
-            "texto3": "*[❗] A la orden, Mi rey 👑.*",
+            "texto2": "*[❗] A la orden, Mi Señor 👑.*",
+            "texto3": "*[❗] A la orden, Mi Señor 👑.*",
             "texto4": "*[❗] El número ingresado no existe en la lista de owners.*"
         },
         "owner_addmsg": {
