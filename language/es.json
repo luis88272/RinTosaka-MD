@@ -2037,7 +2037,7 @@
                 "*𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:*",
                 "*𝚃𝙾𝚃𝙰𝙻 𝙳𝙴 𝙿𝙰𝚁𝚃𝙸𝙲𝙸𝙿𝙰𝙽𝚃𝙴𝚂:*",
                 "Participantes",
-                "*👑 Shadow Monarch 👑:*",
+                "*👑 𝙎𝙝𝙖𝙙𝙤𝙬 𝙈𝙤𝙣𝙖𝙧𝙘𝙝 👑:*",
                 "*Miembros de la realeza :*",
                 "*𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝚂:*",
                 "—◉ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴:",
@@ -2104,7 +2104,7 @@
             "texto3": "*[ ✅ ] A la orden, Su Majestad.*"
         },
         "gc_revoke": {
-            "texto1": "🔹️ *_Se restableció con éxito el link del grupo, su majestad._*\n♾ • Link Nuevo:"
+            "texto1": "🔹️ *_Se restableció con éxito el link del grupo, Mi Señor._*\n♾ • Link Nuevo:"
         },
         "gc_setbye": {
             "texto1": "*[❗] 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝙳𝙴 𝙳𝙴𝚂𝙿𝙴𝙳𝙸𝙳𝙰 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴 𝙿𝙰𝚁𝙰 𝙴𝚂𝚃𝙴 𝙶𝚁𝚄𝙿𝙾, A sus Ordenes.*",
@@ -2166,7 +2166,7 @@
             ],
             "texto6": [
                 "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
-                "Es el rey, por lo mismo no puede ser eliminado.*"
+                "Como te atreves a intentar borrar a mi señor? una vez mas y seras castigado.*"
             ],
             "texto7": [
                 "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
@@ -2682,7 +2682,7 @@
         "menu_menu": {
             "texto1": [
                 "Igris - 𝘽𝙊𝙏",
-                "▢ *Hola.,*",
+                "▢ *Siempre leal a mi señor. tenle respeto,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
@@ -3063,7 +3063,7 @@
         },
         "propietario_actualizar": {
             "texto1": "_*< PROPIETARIO - UPDATE />*_\n\n*[ ✅ ] No hay actualizaciones pendientes.*",
-            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente, su majestad.*\n\n",
+            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente, Mi señor.*\n\n",
             "texto3": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Se han hecho cambios locales en archivos del bot que entran en conflicto con las actualizaciones del repositorio. Para actualizar, reinstala el bot o realiza las actualizaciones manualmente.*\n\n*Archivos en conflicto:*",
             "texto4": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
