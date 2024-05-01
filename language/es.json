@@ -1996,12 +1996,12 @@
                 "📌 *_Ejemplo de uso:_*",
                 "*_🌿 Para que el grupo este cerrado una hora._*"
             ],
-            "texto2": "*El grupo ha sido cerrado, ¡ahora solo los miembros de la realeza pueden enviar mensajes!*",
-            "texto3": "*El grupo se ha abierto, ¡ahora todos los Mortales pueden enviar mensajes!*"
+            "texto2": "*`El grupo ha sido cerrado`, ¡ahora solo los miembros de la realeza pueden enviar mensajes!*",
+            "texto3": "*`El grupo se ha abierto`, ¡ahora todos los Mortales pueden enviar mensajes!*"
         },
         "gc_config": {
             "texto1": [
-                "*El grupo ha sido cerrado, ¡ahora solo los miembros de la Realeza pueden enviar mensajes!*",
+                "*`El grupo ha sido cerrado`, ¡ahora solo los miembros de la Realeza pueden enviar mensajes!*",
                 "*┏━━━❲ ✨𝙴𝙹𝙴𝙼𝙿𝙻𝙾✨ ❳━━━┓*",
                 "*[ ✔ ] 𝙶𝚁𝚄𝙿𝙾 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴*"
             ]
@@ -2419,7 +2419,7 @@
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪ 👑 𝙎𝙝𝙖𝙙𝙤𝙬 𝙈𝙤𝙣𝙖𝙧𝙘𝙝 👑 wa.me/593985655462*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Joan  👑  wa.me/523327150768*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Asael  👑 wa.me/1829317-5634*",
-                "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Yuseram  👑 wa.me/573023633499*",
+                "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Joako  👑 wa.me/573023633499*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Xxxholic  👑  wa.me/525644275562*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Prince Dark 👑 wa.me/523311442985*",
                 "*—◉ ~ ⏤͟͟͞͞❃ུ۪Putita de La Realeza  🙇‍♀️  wa.me/+34744655119  ī.am Cristian, El mas Gay*",
@@ -2429,7 +2429,7 @@
                 "*—◉ https://chat.whatsapp.com/FhiEt7vRAkL2HT8Nj0pcY1*",
                 "*—◉ https://chat.whatsapp.com/FhiEt7vRAkL2HT8Nj0pcY1 *",
                 "*—◉ https://chat.whatsapp.com/FhiEt7vRAkL2HT8Nj0pcY1*",
-                "*—◉ ~ ⏤͟͟͞͞❃ུ۪Byte Boulevard 🐍ׂ᪶! In Top.*"
+                "*—◉ ~ ⏤͟͟͞͞❃ུ۪Byte Boulevard ! In Top.*"
             ],
             "texto2": [
                 "「  Royalty Members    」",
@@ -2681,7 +2681,7 @@
         },
         "menu_menu": {
             "texto1": [
-                "Igris - 𝘽𝙊𝙏",
+                "`Misa - 𝘽𝙊𝙏`",
                 "▢ *ī.am igris, porfavor  se amable,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
@@ -2780,8 +2780,8 @@
                 "*[❗] Uso incorrecto del comando.*\n\n*—◉ Ejemplo de uso válido:*\n*◉",
                 "<mensaje citado>*"
             ],
-            "texto2": "*[❗] A la orden, Mi Señor 👑.*",
-            "texto3": "*[❗] A la orden, Mi Señor 👑.*",
+            "texto2": "*`[❗] A la orden, Mi Señor 👑`.*",
+            "texto3": "*`[❗] A la orden, Mi Señor 👑`.*",
             "texto4": "*[❗] El número ingresado no existe en la lista de owners.*"
         },
         "owner_addmsg": {
@@ -3000,7 +3000,7 @@
             "texto5": "*[❗] Lo sentimos, algo salio mal por favor reportelo o vuelva a intentarlo.*"
         },
         "owner_leavegc": {
-            "texto1": "*Adios a todos, el Bot se despide! (≧ω≦)ゞ*"
+            "texto1": "*`Adios a todos, el Bot se despide!` (≧ω≦)ゞ*"
         },
         "owner_listmsg": {
             "texto1": [
@@ -3627,7 +3627,7 @@
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
             "texto3": "*[ ℹ️ ] Bienvenido, Mi Señor.*",
-            "texto4": "*[ ℹ️ ] Que le vaya bien, Mi Señor.*",
+            "texto4": "*[ ℹ️ ] `Que le vaya bien, Mi Señor.`*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
             "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
             "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo, su alteza.*",
