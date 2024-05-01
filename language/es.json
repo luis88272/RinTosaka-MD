@@ -2841,7 +2841,7 @@
             ]
         },
         "owner_autoadmin": {
-            "texto1": "*[❗] `Hola mi señor`, Como esta? usted ya  tiene poder en este grupo.*",
+            "texto1": "*[❗] Hola mi señor, Como esta? usted ya  tiene poder en este grupo.*",
             "texto2": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙰𝚁𝙻𝙴 𝙰𝙳𝙼𝙸𝙽*"
         },
         "owner_banchat": {
@@ -2858,7 +2858,7 @@
         "owner_bcgc": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙴 𝚃𝚁𝙰𝙼𝙸𝚃𝙴*",
             "texto2": [
-                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 de La Realeza.",
+                "\n\n𝙀𝙎𝙏𝙀 𝙀𝙎 𝙐𝙉 𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 de `La Realeza`.",
                 "[❗𝐂𝐎𝐌𝐔𝐍𝐈𝐂𝐀𝐃𝐎❗]\n\n"
             ],
             "texto3": [
