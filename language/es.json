@@ -2780,8 +2780,8 @@
                 "*[❗] Uso incorrecto del comando.*\n\n*—◉ Ejemplo de uso válido:*\n*◉",
                 "<mensaje citado>*"
             ],
-            "texto2": "*`[❗] A la orden, Mi Señor 👑`.*",
-            "texto3": "*`[❗] A la orden, Mi Señor 👑`.*",
+            "texto2": "*[❗] A la orden, Mi Señor 👑.*",
+            "texto3": "*[❗] A la orden, Mi Señor 👑.*",
             "texto4": "*[❗] El número ingresado no existe en la lista de owners.*"
         },
         "owner_addmsg": {
@@ -2841,7 +2841,7 @@
             ]
         },
         "owner_autoadmin": {
-            "texto1": "*[❗] Hola Mi señor, Como esta? usted ya  tiene poder en este grupo.*",
+            "texto1": "*[❗] `Hola mi señor`, Como esta? usted ya  tiene poder en este grupo.*",
             "texto2": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙰𝚁𝙻𝙴 𝙰𝙳𝙼𝙸𝙽*"
         },
         "owner_banchat": {
@@ -3055,7 +3055,7 @@
         "owner_unbanuser": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙰 𝙴𝙻 @𝚝𝚊𝚐 𝙳𝙴 𝙰𝙻𝙶𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾*",
             "texto2": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙰 𝙴𝙻 @𝚝𝚊𝚐 𝙳𝙴 𝙰𝙻𝙶𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾*",
-            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 Mortal 𝙵𝚄𝙴 𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝙳𝙾 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n*—◉ 𝙴𝙻 Mortal 𝚈𝙰 𝙿𝚄𝙴𝙳𝙴 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙱𝙾𝚃*"
+            "texto3": "*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 Mortal 𝙵𝚄𝙴 `𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝙳𝙾` 𝙲𝙾𝙽 𝙴𝚇𝙸𝚃𝙾*\n*—◉ 𝙴𝙻 Mortal 𝚈𝙰 𝙿𝚄𝙴𝙳𝙴 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙱𝙾𝚃*"
         },
         "owner_viewimage": {
             "texto1": "Ingrese el nombre y la carpeta de la imagen que desea ver.",
@@ -3215,7 +3215,7 @@
         },
         "rpg_daily": {
             "texto1": [
-                "𝙔𝘼 𝙍𝙀𝘾𝙇𝘼𝙈𝘼𝙎𝙏𝙀 𝙏𝙐 𝙍𝙀𝙂𝘼𝙇𝙊 🎁\n𝙑𝙐𝙀𝙇𝙑𝙀 𝙀𝙉",
+                "𝙔𝘼 𝙍𝙀𝘾𝙇𝘼𝙈𝘼𝙎𝙏𝙀 𝙏𝙐 𝙍𝙀𝙂𝘼𝙇𝙊 \n𝙑𝙐𝙀𝙇𝙑𝙀 𝙀𝙉",
                 "𝙋𝘼𝙍𝘼 𝙑𝙊𝙇𝙑𝙀𝙍 𝘼 𝙍𝙀𝘾𝙇𝘼𝙈𝘼𝙍"
             ],
             "texto3": [
@@ -3627,11 +3627,11 @@
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
             "texto3": "*[ ℹ️ ] Bienvenido, Mi Señor.*",
-            "texto4": "*[ ℹ️ ] `Que le vaya bien, Mi Señor.`*",
+            "texto4": "*[ ℹ️ ] Que le vaya bien, Mi Señor.*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
             "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
             "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo, su alteza.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, Mi Señor.*"
+            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, `Mi Señor`.*"
         },
         "deleteUpdate": {
             "texto1": [
