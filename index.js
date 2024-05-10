@@ -17,7 +17,7 @@ say('The Mystic\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado por Bruno Jared`, {
+say(`Bot creado por Jared.`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
