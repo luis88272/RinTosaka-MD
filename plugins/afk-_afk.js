@@ -30,9 +30,9 @@ export function before(m) {
     const reason = user.afkReason || '';
     m.reply(`${tradutor.texto1[0]}
 
-* ${tradutor.texto1[1]}*      
-* ${reason ? `${tradutor.texto1[2]}` + reason : `${tradutor.texto1[3]}`}*
-* ${tradutor.texto1[4]} ${(new Date - afkTime).toTimeString()}*
+*${tradutor.texto1[1]}*      
+*${reason ? `${tradutor.texto1[2]}` + reason : `${tradutor.texto1[3]}`}*
+*${tradutor.texto1[4]} ${(new Date - afkTime).toTimeString()}*
   `.trim());
   }
   return true;
