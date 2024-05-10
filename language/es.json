@@ -3277,15 +3277,15 @@
                 "puntos de experiencia más. Sigue interactuando con el Bot!.*"
             ],
             "texto2": [
-                "🎉 ¡Felicidades,",
+                " ¡Felicidades,",
                 "Has subido de nivel a"
             ],
             "texto3": [
-                "🚀 *Nuevo Nivel Alcanzado*",
-                "*◉ Nivel anterior:*",
-                "*◉ Nuevo nivel:*",
-                "*◉ Rango actual:*",
-                "*—◉ Continúa explorando y realizando misiones para alcanzar nuevas alturas en el Gremio de Aventureros. Sigue interactuando con el Bot!.*"
+                "> *Nuevo Nivel Alcanzado*",
+                "> Nivel anterior:*",
+                "> Nuevo nivel:*",
+                "> Rango actual:*",
+                ">  Continúa explorando y realizando misiones para alcanzar nuevas alturas en el Gremio de Aventureros. Sigue interactuando con el Bot!.*"
             ]
         },
         "rpg_minar_mysticcoins": {
@@ -3592,17 +3592,17 @@
                 "▢ *Aviso:*",
                 "\n▢ *Motivo:*",
                 "▢ *Motivo:* Sin especificar",
-                "*[ ℹ️ ] Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario(a) del bot para apelar la suspensión.*"
+                "> *[ ℹ️ ] Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario(a) del bot para apelar la suspensión.*"
             ],
             "texto2": "*[ ℹ️ ] Sus diamantes se han agotado, puede adquirir más con el comando:*",
             "texto3": [
-                "*[ ℹ️ ] Se require tener el nivel",
+                "> *[ ℹ️ ] Se require tener el nivel",
                 "para poder utilizar el comando. Tú nivel actual es",
                 "usa el comando",
                 "para subir tu nivel con XP.*"
             ],
             "texto4":[
-                "*[ ℹ️ ] Se utilizaron",
+                "> *[ ℹ️ ] Se utilizaron",
                 "diamante(s) (limites).*"
             ]
         },
@@ -3615,8 +3615,8 @@
             "texto6": "*[ ℹ️ ] Este comando solo puede ser utilizado en el chat privado del bot.*",
             "texto7": "*[ ℹ️ ] Este comando solo puede ser usado por miembros de la  realeza.*",
             "texto8": "> *[ ℹ️ ] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
-            "texto9": "*[ ℹ️ ] Para utilizar este comando debes estar registrado.*\n\nUtiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
-            "texto10": "*[ ℹ️ ] Este comando fue desactivado por miembros de la Realeza.*",
+            "texto9": "> *[ ℹ️ ] Para utilizar este comando debes estar registrado.*\n\nUtiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
+            "texto10": "> *[ ℹ️ ] Este comando fue desactivado por miembros de la Realeza.*",
             "texto11": [
                 "> Advertencia",
                 "> Advertencia",
