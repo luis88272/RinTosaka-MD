@@ -3626,7 +3626,7 @@
         "participantsUpdate": {
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[ ℹ️ ] Bienvenido, Mi Señor.*",
+            "texto3": "> *[ ℹ️ ] Bienvenido, Mi Señor.*",
             "texto4": "*[ ℹ️ ] Que le vaya bien, Mi Señor.*",
             "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
             "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
