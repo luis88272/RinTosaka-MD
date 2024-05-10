@@ -2841,7 +2841,7 @@
             ]
         },
         "owner_autoadmin": {
-            "texto1": "*[❗] Hola mi señor, Como esta? usted ya  tiene poder en este grupo.*",
+            "texto1": "> *[❗] Hola mi señor, Como esta? usted ya  tiene poder en este grupo.*",
             "texto2": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙰𝚁𝙻𝙴 𝙰𝙳𝙼𝙸𝙽*"
         },
         "owner_banchat": {
@@ -2993,11 +2993,11 @@
             "texto3": "*Lista de grupos del Bot* 🤖\n\n*—◉ Total de grupos:*"
         },
         "owner_join": {
-            "texto1": "*[❗] Link erroneo o faltante, ingrese el enlace de un grupo de WhatsApp.*\n\n*—◉ Ejemplo:*\n*◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
-            "texto2": "*[ ✔️ ] El Bot ha ingresado con éxito al grupo.*",
-            "texto3": "*[❗] El link de su grupo fue enviado a un miembro de la familia real, espera la aprobacion.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
-            "texto4": "*[❗] NUEVA SOLICITUD DE UN BOT PARA UN GRUPO [❗]*\n\n*—◉ Solicitante:*",
-            "texto5": "*[❗] Lo sentimos, algo salio mal por favor reportelo o vuelva a intentarlo.*"
+            "texto1": "> *[❗] Link erroneo o faltante, ingrese el enlace de un grupo de WhatsApp.*\n\n*—◉ Ejemplo:*\n*◉ #join https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*",
+            "texto2": "> *[ ✔️ ] El Bot ha ingresado con éxito al grupo.*",
+            "texto3": "> *[❗] El link de su grupo fue enviado a un miembro de la familia real, espera la aprobacion.*\n\n*—◉ Su grupo estará en evaluación y el propietario/a del Bot decidirá si agrega o no al Bot.*\n\n*—◉ Algunas de las razones por la cual su solicitud puede ser rechazada son:*\n*1.- El Bot está saturado.*\n*2.- El Bot fue eliminado del grupo recientemente.*\n*3.- El link del grupo ha sido restablecido.*\n*4.-El Bot no se agrega a grupos por decisión del propietario/a.*\n\n*—◉ El proceso de evaluación puede tomar algo de tiempo, incluso dias, tenga paciencia.*",
+            "texto4": "> *[❗] NUEVA SOLICITUD DE UN BOT PARA UN GRUPO [❗]*\n\n*—◉ Solicitante:*",
+            "texto5": "> *[❗] Lo sentimos, algo salio mal por favor reportelo o vuelva a intentarlo.*"
         },
         "owner_leavegc": {
             "texto1": "*`Adios a todos, el Bot se despide!` (≧ω≦)ゞ*"
@@ -3062,10 +3062,10 @@
             "texto2": "La imagen no existe en la carpeta raíz."
         },
         "propietario_actualizar": {
-            "texto1": "_*< PROPIETARIO - UPDATE />*_\n\n*[ ✅ ] No hay actualizaciones pendientes.*",
-            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Actualización finalizada exitosamente, Mi señor.*\n\n",
-            "texto3": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Se han hecho cambios locales en archivos del bot que entran en conflicto con las actualizaciones del repositorio. Para actualizar, reinstala el bot o realiza las actualizaciones manualmente.*\n\n*Archivos en conflicto:*",
-            "texto4": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n*[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
+            "texto1": "_*< PROPIETARIO - UPDATE />*_\n\n> *[ ✅ ] No hay actualizaciones pendientes.*",
+            "texto2": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n> *[ ℹ️ ] Actualización finalizada exitosamente, Mi señor.*\n\n",
+            "texto3": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n> *[ ℹ️ ] Se han hecho cambios locales en archivos del bot que entran en conflicto con las actualizaciones del repositorio. Para actualizar, reinstala el bot o realiza las actualizaciones manualmente.*\n\n*Archivos en conflicto:*",
+            "texto4": "_*< PROPIETARIO - ACTUALIZAR />*_\n\n> *[ ℹ️ ] Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*"
         },
         "random_kpop": {
             "texto1": [
@@ -3627,11 +3627,11 @@
             "texto1": "👋 ¡Bienvenido/a!\n@user",
             "texto2": "👋 ¡Hasta luego!\n@user",
             "texto3": "> *[ ℹ️ ] Bienvenido, Mi Señor.*",
-            "texto4": "*[ ℹ️ ] Que le vaya bien, Mi Señor.*",
-            "texto5": "*[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
-            "texto6": "*[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
-            "texto7": "*[ ℹ️ ] Se ha cambiado la foto de perfil del grupo, su alteza.*",
-            "texto8": "*[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, `Mi Señor`.*"
+            "texto4": "> *[ ℹ️ ] Que le vaya bien, Mi Señor.*",
+            "texto5": "> *[ ℹ️ ] La descripción del grupo ha sido modificada, Su Majestad..*",
+            "texto6": "> *[ ℹ️ ] El nombre del grupo ha sido modificado, su alteza.*",
+            "texto7": "> *[ ℹ️ ] Se ha cambiado la foto de perfil del grupo, su alteza.*",
+            "texto8": "> *[ ℹ️ ] El enlace de invitación al grupo ha sido restablecido, `Mi Señor`.*"
         },
         "deleteUpdate": {
             "texto1": [
