@@ -1,23 +1,23 @@
 {
     "plugins": {
         "_antiarab": {
-            "texto1": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +212. Por lo tanto, serás eliminado del grupo.*",
-            "texto2": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +265. Por lo tanto, serás eliminado del grupo.*",
-            "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
+            "texto1": "_*< ANTI-ÁRABES />*_\n\n> [ ℹ️ ] En este grupo no se permiten números que comiencen con +212. Por lo tanto, serás eliminado del grupo.*",
+            "texto2": "_*< ANTI-ÁRABES />*_\n\n> [ ℹ️ ] En este grupo no se permiten números que comiencen con +265. Por lo tanto, serás eliminado del grupo.*",
+            "texto3": "_*< ANTI-ÁRABES />*_\n\n> [ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] Su majestad, el antilink está activado .*",
-            "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras...*",
-            "texto3": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
-            "texto4": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
+            "texto1": "*< ANTI-LINK />*_\n\n> [ ℹ️ ] Su majestad, el antilink está activado .*",
+            "texto2": "_*< ANTI-LINK />*_\n\n> [ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras...*",
+            "texto3": "_*< ANTI-LINK />*_\n\n> [ ℹ️ ] Para que el anti-link funcione correctamente es necesario que el bot sea administrador del grupo.*",
+            "texto4": "_*< ANTI-LINK />*_\n\n> [ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antilink2": {
-            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras..*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Mi rey, Necesito Permisos.*",
-            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
+            "texto1": "_*< ANTI-LINK 2 />*_\n\n> [ ℹ️ ] El mortal @user envió un link de un grupo de whatsapp no permitido, por ende será erradicado de nuestras tierras..*",
+            "texto2": "_*< ANTI-LINK 2 />*_\n\n> [ ℹ️ ] Mi rey, Necesito Permisos.*",
+            "texto3": "_*< ANTI-LINK 2 />*_\n\n> [ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
+            "texto1": "_*< ANTI-PRIVADO />*_\n\n> [ ℹ️ ] La función antiprivado está habilitada, por lo tanto serás bloqueado.*"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2166,7 +2166,7 @@
             ],
             "texto6": [
                 "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
-                "Como te atreves a intentar borrar a mi señor? una vez mas y seras castigado.*"
+                "> Como te atreves a intentar borrar a mi señor? una vez mas y seras castigado.*"
             ],
             "texto7": [
                 "_*< GRUPOS - ELIMINAR />*_\n\n*[ ℹ️ ]",
@@ -2682,7 +2682,7 @@
         "menu_menu": {
             "texto1": [
                 "`Misa - 𝘽𝙊𝙏`",
-                "▢ *ī.am igris, porfavor  se amable,*",
+                "▢ *ī.am misa, porfavor  se amable,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
