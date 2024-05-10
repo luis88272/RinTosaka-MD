@@ -27,6 +27,6 @@ const handler = async (m, {conn, text}) => {
 ▢ ${tradutor.texto5[1]} ${dmt}
 └──────────────`);
 };
-handler.command = ['añadirdiamantes', 'addd', 'dard', 'dardiamantes'];
+handler.command = ['añadirdiamantes', 'add', 'dar', 'dardiamantes'];
 handler.rowner = true;
 export default handler;
