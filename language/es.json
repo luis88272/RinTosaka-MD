@@ -3020,7 +3020,7 @@
                 "*❒═════[𝐑𝐄𝐏𝐎𝐑𝐓𝐄]═════❒*\n*┬*\n*├❧ 𝙽𝚄𝙼𝙴𝚁𝙾:*",
                 "*┴*\n*┬*\n*├❧ 𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*"
             ],
-            "texto5": "*> [ ✔️ ] Reporte enviado a la realeza,su reporte será atendido lo antes posible.*"
+            "texto5": "> [ ✔️ ] Reporte enviado a la realeza, su reporte será atendido lo antes posible.*"
         },
         "owner_resetprefix": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Hecho, Su majestad."
